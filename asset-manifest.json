@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Odisha-Tourism-App/static/css/main.06f2cd48.css",
+    "main.js": "/Odisha-Tourism-App/static/js/main.acb8b5a2.js",
+    "static/js/453.233c4c79.chunk.js": "/Odisha-Tourism-App/static/js/453.233c4c79.chunk.js",
+    "static/media/hero-banner.mp4": "/Odisha-Tourism-App/static/media/hero-banner.e7686d743d5da2d4b69c.mp4",
+    "static/media/pdp.jpg": "/Odisha-Tourism-App/static/media/pdp.ce596309df728f6ddef2.jpg",
+    "static/media/konark.jpg": "/Odisha-Tourism-App/static/media/konark.6bfbf3ba69b2d9666da5.jpg",
+    "static/media/cilika.jpg": "/Odisha-Tourism-App/static/media/cilika.b0db836fbd30ab7ad292.jpg",
+    "static/media/bbsr.jpg": "/Odisha-Tourism-App/static/media/bbsr.da64e3f1be0842c67f68.jpg",
+    "static/media/footer-image.jpg": "/Odisha-Tourism-App/static/media/footer-image.47b51677d5feb8d17323.jpg",
+    "static/media/cuttack.png": "/Odisha-Tourism-App/static/media/cuttack.d52af5aded8551a1c95f.png",
+    "static/media/puri.png": "/Odisha-Tourism-App/static/media/puri.99a98f740ffcddb50871.png",
+    "index.html": "/Odisha-Tourism-App/index.html",
+    "main.06f2cd48.css.map": "/Odisha-Tourism-App/static/css/main.06f2cd48.css.map",
+    "main.acb8b5a2.js.map": "/Odisha-Tourism-App/static/js/main.acb8b5a2.js.map",
+    "453.233c4c79.chunk.js.map": "/Odisha-Tourism-App/static/js/453.233c4c79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06f2cd48.css",
+    "static/js/main.acb8b5a2.js"
+  ]
+}
