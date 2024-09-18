@@ -7,16 +7,16 @@ import { Link } from "react-router-dom";
 export function Navbar(){
     
 
-    const [toggle,setToggle]=useState({right:'-8000px'})
+    const [toggle,setToggle]=useState({top:'-8000px'})
     function handleToggleOpenClick(){
         setToggle(
-            {right:'0px'}
+            {top:'0px'}
         )
     }
 
     function handleToggleCloseClick(){
         setToggle(
-            {right:'-8000px'}
+            {top:'-8000px'}
         )
     }
     return(

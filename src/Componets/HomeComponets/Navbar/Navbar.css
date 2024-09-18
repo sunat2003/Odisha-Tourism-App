@@ -66,8 +66,8 @@
     .menu-bar{
         flex-direction:column;
         position:absolute;
-        right:-8000px;
-        top:0;
+        right:0px;
+        top:-8000px;
         width:400px;
         height:100vh;
         padding:80px ;
