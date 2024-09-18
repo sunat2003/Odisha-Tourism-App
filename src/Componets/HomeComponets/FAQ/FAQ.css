@@ -1,0 +1,43 @@
+.faq-section {
+  width: 100%;
+  padding:50px 80px;
+  display:flex;
+  flex-direction: column;
+  row-gap:30px;
+}
+
+.faq-section  h1{
+    font-family:"Jacques Francois Shadow";
+    text-align: center;
+    color:red;
+    font-size:30px;
+}
+.faq-datils-box{
+    width:100%;
+}
+.faq-datils-box .faq-des{
+    display:flex;
+    padding:20px 20px;
+    align-items:center;
+    background-color:rgb(72, 72, 212);
+    color:#fff;
+    font-size:20px;
+    font-weight:200;
+    cursor:pointer;
+}
+.faq-datils-box p{
+    border-radius:5px;
+    border:1px solid gray;
+    padding:20px 20px;
+    display:none;
+    transition:0.5s ease-out;
+}
+
+
+
+@media(max-width:768px){
+    .faq-section{
+        padding:40px 30px;
+    }
+}
+

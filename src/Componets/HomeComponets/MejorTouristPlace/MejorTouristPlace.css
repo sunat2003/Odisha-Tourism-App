@@ -1,0 +1,63 @@
+
+
+.mejor-place-se{
+    width:100%;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    padding:80px;
+}
+
+.mejor-place-se h1{
+    font-family:"Jacques Francois Shadow";
+    font-size:30px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.place-details{
+    width:100%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:20px;
+}
+.place-details .details-box{
+    width:400px;
+    overflow:hidden;
+    border-radius:10px;
+    box-shadow:0px 0px 5px gray;
+}
+.place-details .details-box img{
+   width:100%;
+   height:300px;
+}
+
+
+.data-details{
+    padding:20px;
+    display:flex;
+    flex-direction: column;
+    row-gap:20px;
+    align-items: flex-start;
+}
+
+.data-details .place-btn{
+    padding:10px 20px;
+    outline:none;
+    border:none;
+    background-color: rgb(55, 55, 185);
+    color:#fff;
+    font-size:20px;
+    border-radius:10px;
+    box-shadow: 1px 1px 4px blue;
+}
+
+
+
+
+@media(max-width:600px){
+    .mejor-place-se{
+        padding:30px;
+    }
+}
