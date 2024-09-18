@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Odisha-Tourism-App/static/css/main.6ad153de.css",
+    "main.css": "/Odisha-Tourism-App/static/css/main.056fb2aa.css",
     "main.js": "/Odisha-Tourism-App/static/js/main.c61d610f.js",
     "static/js/453.233c4c79.chunk.js": "/Odisha-Tourism-App/static/js/453.233c4c79.chunk.js",
     "static/media/hero-banner.mp4": "/Odisha-Tourism-App/static/media/hero-banner.e7686d743d5da2d4b69c.mp4",
@@ -12,12 +12,12 @@
     "static/media/cuttack.png": "/Odisha-Tourism-App/static/media/cuttack.d52af5aded8551a1c95f.png",
     "static/media/puri.png": "/Odisha-Tourism-App/static/media/puri.99a98f740ffcddb50871.png",
     "index.html": "/Odisha-Tourism-App/index.html",
-    "main.6ad153de.css.map": "/Odisha-Tourism-App/static/css/main.6ad153de.css.map",
+    "main.056fb2aa.css.map": "/Odisha-Tourism-App/static/css/main.056fb2aa.css.map",
     "main.c61d610f.js.map": "/Odisha-Tourism-App/static/js/main.c61d610f.js.map",
     "453.233c4c79.chunk.js.map": "/Odisha-Tourism-App/static/js/453.233c4c79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ad153de.css",
+    "static/css/main.056fb2aa.css",
     "static/js/main.c61d610f.js"
   ]
 }
