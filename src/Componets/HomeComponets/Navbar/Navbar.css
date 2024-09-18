@@ -53,7 +53,6 @@
 
 
 
-
 @media(max-width:1000px){
     .nav-bar{
        justify-content: space-between;
@@ -87,6 +86,9 @@
     }
     .toggle-ham{
         display:block;
+    }
+    .t-link{
+        color:#fff;
     }
 
 

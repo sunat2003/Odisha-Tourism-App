@@ -23,7 +23,7 @@ export function Navbar(){
         <nav className="nav-bar">
             <h2 className='logo'>Odisha <span>Tourism</span></h2>
             <ul className="menu-bar" style={toggle}>
-                <li><Link className="link" to='/'>Home</Link></li>
+                <li><Link className="link t-link" to='/'>Home</Link></li>
                 <li>Toure Pakage</li>
                 <li>Destination</li>
                 <li>Hotels & Restores</li>
