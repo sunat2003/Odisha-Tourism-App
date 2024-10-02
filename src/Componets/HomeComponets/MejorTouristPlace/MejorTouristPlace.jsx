@@ -5,6 +5,7 @@ import cilika from '../../../Assets/cilika.jpg';
 import konark from '../../../Assets/konark.jpg';
 import cuttack from '../../../Assets/cuttack.png';
 import "./MejorTouristPlace.css";
+import { Link } from 'react-router-dom';
 var place=[
     {
         id:1,
@@ -55,7 +56,7 @@ export function MejorTouristPlace() {
                <div className="data-details">
                <h3>{data.name}</h3>
                <p>{data.description}</p>
-               <button className="place-btn">learn More</button>
+               <button className="place-btn"><Link className="d-link" to={"/"+data.name} >learn More</Link></button>
                </div>
             </div>
            ) 

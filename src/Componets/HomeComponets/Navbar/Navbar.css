@@ -56,7 +56,6 @@
 @media(max-width:1000px){
     .nav-bar{
        justify-content: space-between;
-       position:relative;
        padding:15px 10;
     }
     .logo{

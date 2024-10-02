@@ -1,0 +1,45 @@
+.place-section-s{
+    width:100%;
+}
+.place-hero-section-s{
+    width:100%;
+    height:70vh;
+    
+    background-position: center;
+    background-size: cover;
+}
+.p-puri{
+    background-image: url('../../../Assets/puri.png');
+}
+.place-details-section-s{
+    padding:30px 50px;
+    display:flex;
+    flex-direction: column;
+}
+.place-details-section-s h1{
+    margin-bottom:20px;
+    font-family:"Jacques Francois Shadow";
+    text-align:center;
+}
+.place-details-s{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.place-details-s h3,h4 {
+    font-family:"Jacques Francois Shadow";
+    text-align:center;
+    color:rgb(18, 148, 148);
+    margin-bottom: 20px;
+}
+.place-details-s p{
+    line-height: 30px;
+}
+
+
+
+@media(max-width:500px){
+    .place-details-section-s{
+        padding:20px;
+    }
+}
